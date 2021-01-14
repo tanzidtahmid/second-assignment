@@ -1,0 +1,22 @@
+.men-jkt{
+    border: none;
+    padding: 10px;
+    margin: 12px;
+    box-shadow: 5px 5px 34px gray;
+    border-radius: 10px;
+    
+}
+
+.first-page{
+        background-color: rgb(255, 232, 244); 
+}
+.jkt-img{
+    background-color: rgb(211, 211, 211);
+    border-radius: 20px;
+}
+@media(max-width:768px){
+    .heading{
+        display: flex;
+        justify-content: center;
+    }
+}
